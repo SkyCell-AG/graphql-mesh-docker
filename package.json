@@ -1,0 +1,18 @@
+{
+  "name": "graphql-gateway",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx graphql-mesh serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@graphql-mesh/cli": "0.19.1",
+    "@graphql-mesh/openapi": "0.12.5",
+    "graphql": "15.5.0"
+  }
+}
