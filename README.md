@@ -1,7 +1,7 @@
 ##Versioning
 
-graphql-mesh:{node-version}-{graphql-mesh-openapi-version}
-Example: graphql-mesh:12.20.1-12.5
+graphql-mesh:v{node-version}-{graphql-mesh-openapi-version}
+Example: graphql-mesh:v12.20.1-12.5
 
 ##Build image
 
